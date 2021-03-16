@@ -1,8 +1,9 @@
 ### Contents
-Contains two versions of the behavioural experiment, a single day and a two day version.
+Contains two versions of the behavioural experiment, a single day and a two day version and the raw data from pilot studies.
 * SingleDay: experiment with learning and an immediate memory test on same day 
 * TwoDays_1: first day of two-day experiment with only learning components
 * TwoDays_2: second day of two-day experiment to be administered 24 hours after TwoDays_1, contains memory test
+* SingleDay_Pilot_Data: raw data in csv files for pilot studies run on Prolific.
 
 Supporting files/parameters including stimuli images, stimuli lists and phq9 survey as js files, write_data.php, and consent_external_page.html.
 
